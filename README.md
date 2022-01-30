@@ -1,5 +1,5 @@
 # Bootstrap 5 Starter Template 🎨
-A template with some useful packages.
+Just a template...
 
 # Ingredients 🥣
 - Node.js
